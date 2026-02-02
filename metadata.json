@@ -1,0 +1,7 @@
+{
+  "name": "ARMANI GIFT AWAY",
+  "description": "A high-fashion, Italian-brand inspired giveaway winner announcement tool featuring black & gold aesthetics, dynamic name entry, and photo uploads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
